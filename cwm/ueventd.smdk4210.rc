@@ -19,6 +19,5 @@
 /dev/CEC                  0666   system     system
 /dev/HPD                  0666   system     system
 /dev/fimg2d               0666   system     graphics
-/dev/input/*              0666   root       input
 /dev/srp                  0660   system     audio
 /dev/srp_ctrl             0660   system     audio
